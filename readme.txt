@@ -1,4 +1,17 @@
-Theme 'pixel' v1.4 by Rookervik edited by bebeidon for GPi handheld and other small 4:3 displays (320x240).
+
+
+██████╗░███████╗░░███╗░░███████╗██╗░░░░░███████╗░█████╗░
+╚════██╗██╔════╝░████║░░██╔════╝██║░░░░░██╔════╝██╔══██╗
+░█████╔╝██████╗░██╔██║░░█████╗░░██║░░░░░█████╗░░██║░░╚═╝
+░╚═══██╗╚════██╗╚═╝██║░░██╔══╝░░██║░░░░░██╔══╝░░██║░░██╗
+██████╔╝██████╔╝███████╗███████╗███████╗███████╗╚█████╔╝
+╚═════╝░╚═════╝░╚══════╝╚══════╝╚══════╝╚══════╝░╚════╝░
+
+# Theme fully compatibile with 351ELEC
+
+# Theme description
+
+extra Credit for  Rookervik edited by bebeidon for GPi handheld and other small 4:3 displays (320x240).
 
 Default version contains meta-data in bottom right box, the alternate pixel_desc.xml contains description in that box.
 Per default this theme uses the screenshot if there is no video.
@@ -28,42 +41,9 @@ This theme is per default set to show the European and Japanese Consoles and nam
 To set the icons in the Retropie menu to Pixel icons copy them from the retropie folder to /home/pi/Retropie/retropiemenu/icons/
 
 
-
-
-
-
 Thanks to ChoccyHobNob for providing the art for Custom collections with his cygnus theme.
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
-
-
-
-License
-
-=======
-
-
-
-
-
-ALLOWED:      	- Share and duplicate as it is
-
-              		- Edit, alter, change it
-
-
-
-REQUIREMENTS: 	- Attribution, give credit to the creator
-
-              		- Indicate changes to it
-
-              		- Publish the changes under the same license
-
-
-
-PROHIBITED:   	- Commercial distribution
-
-
-
 
 
 LOGO NOTICE:

@@ -37,16 +37,12 @@ Then the Screenshot will be shown and after a delay of 4 seconds the screenshot 
 
 This theme is per default set to show the European and Japanese Consoles and names. This can be changed by setting the proper folder name like: snesUS to snes and snes to snesE, to get the North American SNES. The same goes for PCEngine and Turbografx-16.
 
-
 To set the icons in the Retropie menu to Pixel icons copy them from the retropie folder to /home/pi/Retropie/retropiemenu/icons/
-
 
 Thanks to ChoccyHobNob for providing the art for Custom collections with his cygnus theme.
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
 
 
-LOGO NOTICE:
-
-
+# LOGO NOTICE:
 The used logos and trademarks are copyright of their respective owners.
